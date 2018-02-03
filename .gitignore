@@ -1,6 +1,5 @@
 coverage
 logs
-node_modules
 test_output
 integration/test_logs
 *~
